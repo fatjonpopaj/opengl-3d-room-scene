@@ -1,11 +1,4 @@
 # Projektarbeit
-## Information
-### Gruppenmitglieder
-- Ezgin Sürer, 1715076
-- Ege Coskun, 1715319
-- Jan Luca Mietzelfeld, 1714763
-- Christian Nemchenko, 1715050
-- Fatjon Popaj, 1715131
 
 ### 1. Projektübersicht
 Das Projekt konzentriert sich auf die Erstellung einer Computergrafik-Szene unter Verwendung von OpenGL. Die Szene umfasst einen Raum mit detaillierter Beleuchtung, die die Atmosphäre hervorhebt. Eine dynamische Kamera ermöglicht es, den Raum aus verschiedenen Blickwinkeln zu betrachten, insbesondere durch eine rechtsdrehende Bewegung. Zentral in der Szene platziert sind ein Tisch und zwei Stühle, die die Struktur und die räumliche Tiefe ergänzen. Die Beleuchtung setzt Akzente auf die Szenerie, indem sie Schatteneffekte erzeugt und so eine realistische und immersive Umgebung schafft.
