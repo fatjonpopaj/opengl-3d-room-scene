@@ -1,0 +1,8 @@
+.DS_Store
+.vscode
+progMacx64
+progMacARM
+progWin.exe
+progLinux
+tests
+*.o
